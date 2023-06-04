@@ -2,8 +2,8 @@ import React from "react";
 
 function Signup() {
   return (
-    <div className="flex items-center justify-center h-screen bg-gradient-to-r from-white to-white">
-      <img className=" " src="speakwise-png.png" alt="" />
+    <div className="flex gap-36 items-center justify-center h-screen bg-gradient-to-r from-white to-slate-300">
+      <img className=" " src="speakwise.png" alt="" />
       <div className="w-full max-w-md bg-white rounded-lg shadow-xl p-8">
         <h2 className="text-3xl font-bold text-center mb-6">Sign Up</h2>
         <form>
