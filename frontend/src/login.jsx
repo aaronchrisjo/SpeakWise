@@ -1,6 +1,6 @@
 import React from "react";
 
-function Login() {
+export function Login() {
   return (
     <div className="flex gap-36 items-center justify-center h-screen bg-gradient-to-b  from-neutral-100 to-neutral-300">
       <img className=" " src="speakwise.png" alt="" />
@@ -47,5 +47,3 @@ function Login() {
     </div>
   );
 }
-
-export default Login;

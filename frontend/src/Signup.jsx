@@ -1,6 +1,6 @@
 import React from "react";
 
-function Signup() {
+export function Signup() {
   return (
     <div className="flex gap-36 items-center justify-center h-screen bg-gradient-to-b from-neutral-100 to-neutral-300">
       <img className=" " src="speakwise.png" alt="" />
@@ -76,5 +76,3 @@ function Signup() {
     </div>
   );
 }
-
-export default Signup;
