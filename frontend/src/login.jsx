@@ -2,7 +2,7 @@ import React from "react";
 
 function Login() {
   return (
-    <div className="flex gap-36 items-center justify-center h-screen bg-gradient-to-r from-white to-slate-300">
+    <div className="flex gap-36 items-center justify-center h-screen bg-gradient-to-b  from-neutral-100 to-neutral-300">
       <img className=" " src="speakwise.png" alt="" />
       <div className="w-full max-w-md bg-white rounded-lg shadow-xl p-8">
         <h2 className="text-3xl font-bold text-center mb-6">Login</h2>
