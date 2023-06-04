@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 
-import Home from "./Home";
+import Home from "./Homepage";
 import Login from "./Login";
 import Signup from "./Signup";
 
